@@ -30,7 +30,7 @@ setup(
   author = 'Gordon Downs',                   # Type in your name
   author_email = 'gdowns@email.arizona.edu',      # Type in your E-Mail
   url = 'https://github.com/gordiedowns/cheminapc',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/gordiedowns/cheminapc/archive/v0.1-alpha.tar.gz',    # I explain this later on
   keywords = ['XRD', 'CheMin'],   # Keywords that define your package best
   install_requires = [            # I get to this in a second
           'numpy',
@@ -41,7 +41,7 @@ setup(
     'Development Status :: 3 - Alpha',      # Chose either "3 - Alpha", "4 - Beta" or "5 - Production/Stable" as the current state of your package
     'Intended Audience :: Developers',      # Define that your audience are developers
     'Topic :: Software Development :: Build Tools',
-    'License :: OSI Approved :: GNU General Public License v3.0',   # Again, pick a license
+    'License :: OSI Approved :: MIT License',   # Again, pick a license
     'Programming Language :: Python :: 2',      #Specify which pyhton versions that you want to support
     "Operating System :: OS Independent",
   ],

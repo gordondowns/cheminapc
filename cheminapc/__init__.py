@@ -1,1 +1,1 @@
-from cheminapc.cheminapc import XrayPhase, XrayProfile, XrayDif, TopLevel
+from cheminapc import XrayPhase, XrayProfile, XrayDif, TopLevel
