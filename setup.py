@@ -24,7 +24,7 @@ from distutils.core import setup
 setup(
   name = 'cheminapc',         # How you named your package folder (MyLib)
   packages = ['cheminapc'],   # Chose the same as "name"
-  version = '0.1',      # Start with a small number and increase it with every change you make
+  version = '0.1.2',      # Start with a small number and increase it with every change you make
   license = 'gpl-3.0',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = "X-ray Diffraction data analysis software, developed for the CheMin team of NASA's Mars Science Laboratory",   # Give a short description about your library
   author = 'Gordon Downs',                   # Type in your name
@@ -42,7 +42,7 @@ setup(
     'Intended Audience :: Developers',      # Define that your audience are developers
     'Topic :: Software Development :: Build Tools',
     'License :: OSI Approved :: MIT License',   # Again, pick a license
-    'Programming Language :: Python :: 2',      #Specify which pyhton versions that you want to support
+    'Programming Language :: Python :: GNU General Public License v3',      #Specify which pyhton versions that you want to support
     "Operating System :: OS Independent",
   ],
 )
